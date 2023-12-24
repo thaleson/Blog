@@ -20,7 +20,7 @@ O blog é organizado em várias categorias para tornar a experiência de leitura
 
 1. **Clone o Repositório**
    ```
-   git clone [https://github.com/thaleson/Blog]
+   git clone https://github.com/thaleson/Blog
    ```
  # Instale as Dependências  
   ```pip install -r requirements.txt```
