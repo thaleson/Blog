@@ -20,7 +20,7 @@ O blog é organizado em várias categorias para tornar a experiência de leitura
 
 1. **Clone o Repositório**
    ```
-   git clone [https://github.com/thaleson/Blog]
+   git clone https://github.com/thaleson/Blog
    ```
  # Instale as Dependências  
   ```pip install -r requirements.txt```
@@ -40,9 +40,9 @@ Acesse http://localhost:8000 no seu navegador e comece a explorar o blog!
 Contribuições são bem-vindas! Se você encontrar um problema, tem uma sugestão ou deseja adicionar conteúdo, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 📝 Licença
-Este projeto é licenciado sob a [Licença MIT.] - veja o arquivo LICENSE para mais detalhes.
+Este projeto é licenciado sob a Licença MIT. 
 
-Sinta-se à vontade para personalizar este README conforme necessário para o seu projeto. Boa sorte com o seu blog em Django! 👩‍💻👨‍💻
+
 
 
 
