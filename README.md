@@ -42,7 +42,7 @@ Contribuições são bem-vindas! Se você encontrar um problema, tem uma sugest�
 📝 Licença
 Este projeto é licenciado sob a Licença MIT. - veja o arquivo LICENSE para mais detalhes.
 
-Sinta-se à vontade para personalizar este README conforme necessário para o seu projeto. Boa sorte com o seu blog em Django! 👩‍💻👨‍💻
+
 
 
 
